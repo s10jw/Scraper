@@ -16,14 +16,18 @@ class ShadowGovernment:
         random_index = randint(0, len(header_list) - 1)
         return header_list[random_index]
 
+shadow = ShadowGovernment()
+header_list = shadow.get_headers_list()
+print(header_list[0])
 
-header_list = get_headers_list()
+result = requests.get('https://primer.ai/about-primer/careers/#openRoles', headers=header_list[0])
+print(result.text)
 
 # URL = "https://realpython.github.io/fake-jobs/"
 
-header = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"}
-r = requests.get('http://httpbin.org/headers', headers=header)
-print(r.text)
+# header = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"}
+# r = requests.get('http://httpbin.org/headers', headers=header)
+# print(r.text)
 # page = requests.get(URL)
 
 # soup = BeautifulSoup(page.content, "html.parser")
