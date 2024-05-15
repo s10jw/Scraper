@@ -1,11 +1,16 @@
 import requests
 from bs4 import BeautifulSoup
 from random import randint
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 
 class ShadowGovernment:
     def __init__(self):
         self.SCRAPEOPS_API_KEY = '57d5f60f-fbbe-49c3-8e54-c9d41b7a6475'
         return
+    
     
     def get_headers_list(self):
         response = requests.get('http://headers.scrapeops.io/v1/browser-headers?api_key=' + self.SCRAPEOPS_API_KEY)
@@ -18,10 +23,10 @@ class ShadowGovernment:
 
 shadow = ShadowGovernment()
 header_list = shadow.get_headers_list()
-print(header_list[0])
+print(header_list[2]['user-agent'])
 
-result = requests.get('https://primer.ai/about-primer/careers/#openRoles', headers=header_list[0])
-print(result.text)
+# result = requests.get('https://primer.ai/about-primer/careers/#openRoles', headers=header_list[0])
+# print(result.text)
 
 # URL = "https://realpython.github.io/fake-jobs/"
 
@@ -44,3 +49,38 @@ print(result.text)
 #     print(company_element.text)
 #     print(location_element.text)
 #     print()
+
+# Set up Chrome options
+chrome_options = Options()
+chrome_options.add_argument("--headless")  # Run in headless mode
+chrome_options.add_argument("--disable-gpu")
+chrome_options.add_argument("--no-sandbox")
+chrome_options.add_argument("--disable-dev-shm-usage")
+
+# Set up desired capabilities
+capabilities = DesiredCapabilities.CHROME.copy()
+capabilities['acceptInsecureCerts'] = True  # Accept insecure certificates (optional)
+
+# Set the user-agent string
+user_agent = header_list[2]['user-agent'] 
+capabilities['goog:chromeOptions'] = {'args': ['--user-agent=' + user_agent]}
+
+# Path to ChromeDriver
+service = Service('/path/to/chromedriver')
+
+# Initialize the WebDriver
+driver = webdriver.Chrome(service=service, options=chrome_options)
+
+# Open the target URL
+driver.get('https://primer.ai/about-primer/careers/#openRoles')
+
+# Wait for the page to load and JavaScript to execute
+driver.implicitly_wait(10)
+
+# Extract the page source
+html = driver.page_source
+
+print(html)
+
+# Close the browser
+driver.quit()
