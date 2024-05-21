@@ -10,6 +10,7 @@ from chromedriver_py import binary_path
 import hashlib
 from useragents import AgentHandler
 
+
 class ShadowGovernment:
     def __init__(self):
         self.AgentHandler = AgentHandler()
@@ -17,6 +18,11 @@ class ShadowGovernment:
     
     
     def get(self, url):
+        """
+        This method is presented a url string and safely returns the html content from that url.
+        * params: url (string)
+        * returns: html (string)
+        """
         # Set up Chrome Options
         chrome_options = webdriver.ChromeOptions()
 
@@ -60,7 +66,6 @@ class ShadowGovernment:
                 )
 
         # Open the target URL
-        #url = 'https://httpbin.org/headers'
         driver.get(url)
 
         # Wait for the page to load and JavaScript to execute
@@ -75,11 +80,23 @@ class ShadowGovernment:
         return html
 
 
+    def test_header(self):
+        """
+        This method retrieves current request headers from the website below and returns them to the user for inspection.
+        * params: None
+        * returns: None
+        """
+        url = 'https://httpbin.org/headers'
+        html = self.get(url)
+        print(html)
+        return
+
+
+
 # Run stuff
 shadow = ShadowGovernment()
 
-html = shadow.get('https://httpbin.org/headers')
-print(html)
+shadow.test_header()
 
 
 
