@@ -78,7 +78,8 @@ class ShadowGovernment:
 # Run stuff
 shadow = ShadowGovernment()
 
-print(headers==headers2)
+html = shadow.get('https://httpbin.org/headers')
+print(html)
 
 
 
