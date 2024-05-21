@@ -1,4 +1,5 @@
 import requests
+from time import sleep
 from bs4 import BeautifulSoup
 from random import randint
 from selenium import webdriver
@@ -19,10 +20,11 @@ class ShadowGovernment:
     
     def get(self, url):
         """
-        This method is presented a url string and safely returns the html content from that url.
+        This method is presented a url string and safely returns the html content from that url as BS4 object.
         * params: url (string)
         * returns: html (string)
         """
+        # ? What the hell is a reverse/forward DNS lookup
         # Set up Chrome Options
         chrome_options = webdriver.ChromeOptions()
 
@@ -40,6 +42,9 @@ class ShadowGovernment:
 
         # Disable the use of the /dev/shm shared memory space, addressing potential memory-related issues
         chrome_options.add_argument('--disable-dev-shm-usage')
+
+        # Addresses strange third party cookie logging issue
+        chrome_options.add_argument('log-level=3')
 
         # Set a custom user agent to simulate different browsers or devices for enhanced stealth during automation
         agent = self.AgentHandler.get_agent()
@@ -72,10 +77,16 @@ class ShadowGovernment:
         driver.implicitly_wait(10)
 
         # Extract the page source
-        html = driver.page_source
+        page_source = driver.page_source
 
         # Close the browser
         driver.quit()
+
+        # Render HTML
+        html = BeautifulSoup(page_source, 'html.parser')
+
+        # Format HTML
+        html = html.prettify()
 
         return html
 
@@ -95,8 +106,9 @@ class ShadowGovernment:
 
 # Run stuff
 shadow = ShadowGovernment()
-
-shadow.test_header()
+#html = shadow.get('https://www.indeed.com/jobs?q=computer+science&l=santa+maria%2C+ca&from=searchOnHP&vjk=3eb11fc3537596ef')
+html = shadow.get('https://primer.ai/about-primer/careers/#openRoles')
+print(html)
 
 
 
