@@ -73,6 +73,9 @@ class ShadowGovernment:
         # Open the target URL
         driver.get(url)
 
+        # Scroll down to the bottom to load more content
+        driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+
         # Wait for the page to load and JavaScript to execute
         driver.implicitly_wait(10)
 
@@ -83,12 +86,12 @@ class ShadowGovernment:
         driver.quit()
 
         # Render HTML
-        html = BeautifulSoup(page_source, 'html.parser')
+        #html = BeautifulSoup(page_source)
 
         # Format HTML
-        html = html.prettify()
+        #html = html.prettify()
 
-        return html
+        return page_source
 
 
     def test_header(self):
@@ -104,11 +107,7 @@ class ShadowGovernment:
 
 
 
-# Run stuff
-shadow = ShadowGovernment()
-#html = shadow.get('https://www.indeed.com/jobs?q=computer+science&l=santa+maria%2C+ca&from=searchOnHP&vjk=3eb11fc3537596ef')
-html = shadow.get('https://primer.ai/about-primer/careers/#openRoles')
-print(html)
+
 
 
 
