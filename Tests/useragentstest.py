@@ -1,5 +1,5 @@
 import pytest
-from ..Main.useragents import *
+from ..Main.Scrape.useragents import *
 
 
 class TestAgentHandler:
