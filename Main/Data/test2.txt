@@ -1,0 +1,1664 @@
+<html class="js-focus-visible" data-js-focus-visible="" lang="en-US" style="">
+ <body class="page-template-default page page-id-16 page-child parent-pageid-7474 fl-builder fl-theme-builder-singular fl-theme-builder-singular-single-page-default page-careers group-blog fl-builder-breakpoint-medium" data-browser="chrome" data-browser-media="desktop">
+  <main class="site" id="page">
+   <div class="entry-content site-content" id="content">
+    <article class="post-16 page type-page status-publish hentry" id="post-16">
+     <div class="fl-builder-content fl-builder-content-16 fl-builder-content-primary fl-builder-global-templates-locked" data-post-id="16" style="margin-top: 55px;">
+      <div class="fl-row fl-row-full-width fl-row-bg-color fl-node-hf2uy64bwd75 fl-row-default-height fl-row-align-center" data-node="hf2uy64bwd75">
+       <div class="fl-row-content-wrap">
+        <div class="fl-row-content fl-row-fixed-width fl-node-content">
+         <div class="fl-col-group fl-node-afvehxrpqy53" data-node="afvehxrpqy53">
+          <div class="fl-col fl-node-8h12xyw54af6" data-node="8h12xyw54af6" style="min-height: 0px;">
+           <div class="fl-col-content fl-node-content">
+            <div class="fl-module fl-module-skip_link fl-node-2hk9sp1x07l6" data-node="2hk9sp1x07l6">
+             <div class="fl-module-content fl-node-content">
+              <div class="fl-module-custom fl-module-skip_link fl-node-2hk9sp1x07l6" data-type="fp-module-skip_link">
+               <div class="component_skip_link component-skip-link" data-js-skip_link="">
+                <a class="screen-reader-text skip-link" href="#pageRow">
+                 Skip to main content
+                </a>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <header class="fl-row fl-row-full-width fl-row-bg-color fl-node-qi9lbev2jkho fl-row-default-height fl-row-align-center main-nav-row fixed-scroll" data-node="qi9lbev2jkho" style="">
+       <div class="fl-row-content-wrap">
+        <div class="fl-row-content fl-row-fixed-width fl-node-content">
+         <div class="fl-col-group fl-node-8sb9j0nmr4ok fl-col-group-equal-height fl-col-group-align-center" data-node="8sb9j0nmr4ok">
+          <div class="fl-col fl-node-6wgzpqj5yx91" data-node="6wgzpqj5yx91">
+           <div class="fl-col-content fl-node-content">
+            <div class="fl-module fl-module-mega_menu_breakpoints fl-node-pcqne073dvz2 sticky-header" data-node="pcqne073dvz2">
+             <div class="fl-module-content fl-node-content">
+              <div class="fl-module-custom fl-module-mega_menu_breakpoints fl-node-pcqne073dvz2 sticky-header" data-type="fp-module-mega_menu_breakpoints">
+               <div class="component_mega_menu_breakpoints component-mega-menu-breakpoints nav-sticky -main_theme_transparent desktopInitialized mobile-init mobileInitialized" data-js-mega-menu-breakpoints="" data-nodeid="pcqne073dvz2" id="mega-menu-bp-pcqne073dvz2">
+                <div class="main-logo">
+                 <a href="https://primer.ai">
+                  <img alt="PrimerAI Home" class="lazyloaded" data-src="https://primer.ai/wp-content/uploads/2024/05/Primer-new-logo.svg" decoding="async" src="https://primer.ai/wp-content/uploads/2024/05/Primer-new-logo.svg"/>
+                  <noscript>
+                   <img alt="PrimerAI Home" decoding="async" src="https://primer.ai/wp-content/uploads/2024/05/Primer-new-logo.svg"/>
+                  </noscript>
+                 </a>
+                </div>
+                <div class="menu-wrapper mobile" data-breakpoint="992" style="height: 600px; position: absolute; display: none;">
+                 <nav aria-label="Primary Site Navigation" id="mmb-pcqne073dvz2">
+                  <div class="menu-top-menu-container">
+                   <ul class="menu" id="menu-top-menu-1">
+                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-7458 nav-item level-0 #" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement">
+                     <a class="nav-link mmb-link" href="#" id="menu-item-dropdown-7458">
+                      <span class="relative overflow-hidden">
+                       Products
+                       <span class="icon-angle-down">
+                       </span>
+                      </span>
+                     </a>
+                     <ul aria-label="Sub menu navigation list" aria-labelledby="menu-item-dropdown-7458" class="sub-menu" role="menu">
+                      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8492 nav-item level-1 primer-delta" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement">
+                       <a class="dropdown-item mmb-link" href="https://primer.ai/primer-delta/">
+                        <span class="relative overflow-hidden">
+                         Primer Delta
+                        </span>
+                       </a>
+                      </li>
+                      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3159 nav-item level-1 primer-command" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement">
+                       <a class="dropdown-item mmb-link" href="https://primer.ai/primer-command/">
+                        <span class="relative overflow-hidden">
+                         Primer Command
+                        </span>
+                       </a>
+                      </li>
+                     </ul>
+                    </li>
+                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-7768 nav-item level-0 #" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement">
+                     <a class="nav-link mmb-link" href="#" id="menu-item-dropdown-7768">
+                      <span class="relative overflow-hidden">
+                       Industry
+                       <span class="icon-angle-down">
+                       </span>
+                      </span>
+                     </a>
+                     <ul aria-label="Sub menu navigation list" aria-labelledby="menu-item-dropdown-7768" class="sub-menu" role="menu">
+                      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7770 nav-item level-1 industry-defense" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement">
+                       <a class="dropdown-item mmb-link" href="https://primer.ai/industry-defense/">
+                        <span class="relative overflow-hidden">
+                         Defense
+                        </span>
+                       </a>
+                      </li>
+                      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7769 nav-item level-1 industry-intelligence" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement">
+                       <a class="dropdown-item mmb-link" href="https://primer.ai/industry-intelligence/">
+                        <span class="relative overflow-hidden">
+                         Intelligence
+                        </span>
+                       </a>
+                      </li>
+                     </ul>
+                    </li>
+                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-8333 nav-item level-0 #" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement">
+                     <a class="nav-link mmb-link" href="#" id="menu-item-dropdown-8333">
+                      <span class="relative overflow-hidden">
+                       Technology
+                       <span class="icon-angle-down">
+                       </span>
+                      </span>
+                     </a>
+                     <ul aria-label="Sub menu navigation list" aria-labelledby="menu-item-dropdown-8333" class="sub-menu" role="menu">
+                      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7257 nav-item level-1 technology" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement">
+                       <a class="dropdown-item mmb-link" href="https://primer.ai/technology/">
+                        <span class="relative overflow-hidden">
+                         Tech Overview
+                        </span>
+                       </a>
+                      </li>
+                      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8326 nav-item level-1 ai-cost-optimization" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement">
+                       <a class="dropdown-item mmb-link" href="https://primer.ai/technology/ai-cost-optimization/">
+                        <span class="relative overflow-hidden">
+                         AI Cost Optimization
+                        </span>
+                       </a>
+                      </li>
+                      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8325 nav-item level-1 semantic-search" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement">
+                       <a class="dropdown-item mmb-link" href="https://primer.ai/technology/semantic-search/">
+                        <span class="relative overflow-hidden">
+                         Semantic Search
+                        </span>
+                       </a>
+                      </li>
+                     </ul>
+                    </li>
+                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-7771 nav-item level-0 #" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement">
+                     <a class="nav-link mmb-link" href="#" id="menu-item-dropdown-7771">
+                      <span class="relative overflow-hidden">
+                       Resources
+                       <span class="icon-angle-down">
+                       </span>
+                      </span>
+                     </a>
+                     <ul aria-label="Sub menu navigation list" aria-labelledby="menu-item-dropdown-7771" class="sub-menu" role="menu">
+                      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3164 nav-item level-1 resource-library" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement">
+                       <a class="dropdown-item mmb-link" href="https://primer.ai/resource-library/">
+                        <span class="relative overflow-hidden">
+                         Library
+                        </span>
+                       </a>
+                      </li>
+                      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1139 nav-item level-1 blog" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement">
+                       <a class="dropdown-item mmb-link" href="https://primer.ai/blog/">
+                        <span class="relative overflow-hidden">
+                         Blog
+                        </span>
+                       </a>
+                      </li>
+                      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3165 nav-item level-1 newsroom" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement">
+                       <a class="dropdown-item mmb-link" href="https://primer.ai/newsroom/">
+                        <span class="relative overflow-hidden">
+                         Newsroom
+                        </span>
+                       </a>
+                      </li>
+                      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3166 nav-item level-1 events" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement">
+                       <a class="dropdown-item mmb-link" href="https://primer.ai/events/">
+                        <span class="relative overflow-hidden">
+                         Events
+                        </span>
+                       </a>
+                      </li>
+                     </ul>
+                    </li>
+                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-3167 nav-item level-0 #" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement">
+                     <a class="nav-link mmb-link" href="#" id="menu-item-dropdown-3167">
+                      <span class="relative overflow-hidden">
+                       Company
+                       <span class="icon-angle-down">
+                       </span>
+                      </span>
+                     </a>
+                     <ul aria-label="Sub menu navigation list" aria-labelledby="menu-item-dropdown-3167" class="sub-menu" role="menu">
+                      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7481 nav-item level-1 about-primer" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement">
+                       <a class="dropdown-item mmb-link" href="https://primer.ai/about-primer/">
+                        <span class="relative overflow-hidden">
+                         About
+                        </span>
+                       </a>
+                      </li>
+                      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7460 nav-item level-1 leadership" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement">
+                       <a class="dropdown-item mmb-link" href="https://primer.ai/leadership/">
+                        <span class="relative overflow-hidden">
+                         Leadership
+                        </span>
+                       </a>
+                      </li>
+                      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3344 nav-item level-1 careers" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement">
+                       <a class="dropdown-item mmb-link" href="https://primer.ai/about-primer/careers/">
+                        <span class="relative overflow-hidden">
+                         Careers
+                        </span>
+                       </a>
+                      </li>
+                      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3316 nav-item level-1 partners" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement">
+                       <a class="dropdown-item mmb-link" href="https://primer.ai/partners/">
+                        <span class="relative overflow-hidden">
+                         Partners
+                        </span>
+                       </a>
+                      </li>
+                      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7172 nav-item level-1 security-and-compliance" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement">
+                       <a class="dropdown-item mmb-link" href="https://primer.ai/security-and-compliance/">
+                        <span class="relative overflow-hidden">
+                         Security &amp; Compliance
+                        </span>
+                       </a>
+                      </li>
+                     </ul>
+                    </li>
+                   </ul>
+                  </div>
+                 </nav>
+                 <div class="cta-buttons mobile-visible" style="display: flex;">
+                  <a class="button navigation-button navigation-button_button button" href="https://primer.ai/contact/" rel="">
+                   Contact Us
+                  </a>
+                 </div>
+                </div>
+                <div class="menu-button mobile-hidden" style="display: none;">
+                 <div class="header-button-wrapper">
+                  <a class="button navigation-button navigation-button_button button" href="https://primer.ai/contact/" rel="">
+                   Contact Us
+                  </a>
+                 </div>
+                </div>
+                <div class="header-buttons mobile-visible" style="display: flex;">
+                 <button aria-controls="id=" aria-disabled="false" aria-label="View the Main Menu" class="nav-toggle mmb-link" mega-menu-bp-pcqne073dvz2"="">
+                  <span class="transform-icon">
+                  </span>
+                 </button>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </header>
+      <div class="fl-row fl-row-full-width fl-row-bg-photo fl-node-zru3p8byo7qc fl-row-custom-height fl-row-align-center fl-row-bg-overlay white-bg-pattern-tri" data-node="zru3p8byo7qc">
+       <div class="fl-row-content-wrap fl-node-wcqdphz2flb0">
+        <div class="fl-row-content fl-row-fixed-width fl-node-content" style="max-width: 100%;">
+         <div class="fl-col-group fl-node-pd3bxerfaoig" data-node="pd3bxerfaoig">
+          <div class="fl-col fl-node-p0l54muntxrj" data-node="p0l54muntxrj">
+           <div class="fl-col-content fl-node-content">
+            <div class="fl-module fl-module-home_hero fl-node-wcqdphz2flb0" data-node="wcqdphz2flb0">
+             <div class="fl-module-content fl-node-content">
+              <div class="fl-module-custom fl-module-home_hero fl-node-wcqdphz2flb0" data-type="fp-module-home_hero">
+               <section class="component_home_hero component-home-hero default" data-js-home_hero="" data-node="wcqdphz2flb0">
+                <div class="hh-gradient">
+                 <div class="hh-flex-inner d-flex align-items-center p-0 flex-xl-row flex-lg-row flex-md-row">
+                  <div>
+                   <h1 class="title">
+                    Make the world a safer place
+                   </h1>
+                   <p class="hero-small-text d-block">
+                    Join Primer and help deliver trusted decision-ready AI for the world’s most critical organizations.
+                   </p>
+                   <div class="action-links d-flex p-0 justify-content-xl-start justify-content-lg-start justify-content-md-start justify-content-xs-start text-left">
+                    <span>
+                     <a class="button Default Default_button" href="#openRoles" rel="" target="_self">
+                      We’re Hiring
+                      <span class="screen-reader-text">
+                       (Opens in a new window)
+                      </span>
+                     </a>
+                    </span>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </section>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="fl-row fl-row-full-width fl-row-bg-color fl-node-7dmk6u9y0q4g fl-row-default-height fl-row-align-center" data-node="7dmk6u9y0q4g">
+       <div class="fl-row-content-wrap">
+        <div class="fl-row-content fl-row-fixed-width fl-node-content">
+         <div class="fl-col-group fl-node-jg961cbai4ln" data-node="jg961cbai4ln">
+          <div class="fl-col fl-node-bcah0j16lm5n" data-node="bcah0j16lm5n">
+           <div class="fl-col-content fl-node-content">
+            <div class="fl-module fl-module-custom_heading fl-node-eb8wx2j1736u" data-node="eb8wx2j1736u">
+             <div class="fl-module-content fl-node-content">
+              <div class="fl-module-custom fl-module-custom_heading fl-node-eb8wx2j1736u" data-type="fp-module-custom_heading">
+               <div class="component_custom_heading component-custom-heading gradient" data-js-custom_heading="">
+                <div class="custom-heading-wrapper">
+                 <h2 class="heading 000000">
+                  <span>
+                   Our mission
+                  </span>
+                 </h2>
+                </div>
+                <!-- end custom heading wrapper -->
+               </div>
+              </div>
+             </div>
+            </div>
+            <div class="fl-module fl-module-rich-text fl-node-dmq2ro9x6v4y" data-node="dmq2ro9x6v4y">
+             <div class="fl-module-content fl-node-content">
+              <div class="fl-rich-text">
+               <p>
+                Primer exists to make the world a safer place. We provide trusted decision-ready AI to the world's most critical organizations. Our software enables leaders, researchers, operators and analysts to better understand the changing world around us in real time and make informed decisions when the stakes are high.
+               </p>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="fl-row fl-row-full-width fl-row-bg-color fl-node-9rogm7yuvw4h fl-row-default-height fl-row-align-center" data-node="9rogm7yuvw4h">
+       <div class="fl-row-content-wrap">
+        <div class="fl-row-content fl-row-fixed-width fl-node-content">
+         <div class="fl-col-group fl-node-clnouvtyi674" data-node="clnouvtyi674">
+          <div class="fl-col fl-node-t7rmesqdj3co" data-node="t7rmesqdj3co">
+           <div class="fl-col-content fl-node-content">
+            <div class="fl-module fl-module-fp_recent_posts fl-node-yfe6drilvwh4" data-node="yfe6drilvwh4">
+             <div class="fl-module-content fl-node-content" style="margin: 0px;">
+              <div class="fl-module-custom fl-module-fp_recent_posts fl-node-yfe6drilvwh4" data-type="fp-module-fp_recent_posts">
+               <section class="component_fp_recent_posts component-fp-recent-posts -three-column -image-crop-corner blog mobile-slider" data-js-fp_recent_posts="" id="node-">
+                <ul class="ul recent-blog-row rp-grid-wrapper -three-column">
+                 <li class="li card-lg-0 card-md-0">
+                  <div class="fl-module-custom fl-module-recent_card_loop fl-node-d41d8cd98f00b204e9800998ecf8427e" data-type="fp-module-recent_card_loop">
+                   <div class="component_recent_card_loop component-recent-card-loop -with-image" data-js-recent_card_loop="">
+                    <div class="pcl-post-card">
+                     <a aria-hidden="true" href="https://www.prnewswire.com/news-releases/primer-announces-69m-in-funding-to-accelerate-ai-enabled-information-advantage-301850176.html" tabindex="-1">
+                      <span class="pcl-content-header lazyload">
+                       <img alt="" class="attachment-box_400_250 size-box_400_250" decoding="async" fetchpriority="high" height="250" src="https://primer.ai/wp-content/uploads/2024/04/iStock-1194430816-1-1-400x250.jpg" width="400"/>
+                      </span>
+                     </a>
+                     <div class="pcl-content-body">
+                      <div class="post-details">
+                       <div class="pcl-title">
+                        <a href="https://www.prnewswire.com/news-releases/primer-announces-69m-in-funding-to-accelerate-ai-enabled-information-advantage-301850176.html">
+                         <span class="h4">
+                          Primer announces $69M to build AI for ‘those who support and defend our democracy'
+                         </span>
+                        </a>
+                       </div>
+                       <div class="pcl-excerpt">
+                        <p>
+                         Primer secures $69 million in Series D funding, highlighting its role as a top AI provider for both government and commercial sectors, including Fortune 500 companies.
+                        </p>
+                       </div>
+                      </div>
+                     </div>
+                    </div>
+                   </div>
+                  </div>
+                 </li>
+                 <li class="li card-lg-0 card-md-0">
+                  <div class="fl-module-custom fl-module-recent_card_loop fl-node-d41d8cd98f00b204e9800998ecf8427e" data-type="fp-module-recent_card_loop">
+                   <div class="component_recent_card_loop component-recent-card-loop -with-image" data-js-recent_card_loop="">
+                    <div class="pcl-post-card">
+                     <a aria-hidden="true" href="https://www.c4isrnet.com/information-warfare/2023/11/01/how-an-ai-company-parsed-misinformation-early-in-israel-hamas-war/" tabindex="-1">
+                      <span class="pcl-content-header lazyload">
+                       <img alt="" class="attachment-box_400_250 size-box_400_250 lazyload" data-src="https://primer.ai/wp-content/uploads/2024/04/Primer-parsed-misinformation-400x250.png" decoding="async" height="250" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="--smush-placeholder-width: 400px; --smush-placeholder-aspect-ratio: 400/250;" width="400"/>
+                       <noscript>
+                        <img alt="" class="attachment-box_400_250 size-box_400_250" decoding="async" height="250" loading="lazy" src="https://primer.ai/wp-content/uploads/2024/04/Primer-parsed-misinformation-400x250.png" width="400"/>
+                       </noscript>
+                      </span>
+                     </a>
+                     <div class="pcl-content-body">
+                      <div class="post-details">
+                       <div class="pcl-title">
+                        <a href="https://www.c4isrnet.com/information-warfare/2023/11/01/how-an-ai-company-parsed-misinformation-early-in-israel-hamas-war/">
+                         <span class="h4">
+                          How Primer parsed misinformation early in Israel-Hamas war
+                         </span>
+                        </a>
+                       </div>
+                       <div class="pcl-excerpt">
+                        <p>
+                         Read the report by C4ISRNET how our technology played a crucial role in early detection of misinformation during the Israel-Hamas conflict.
+                        </p>
+                       </div>
+                      </div>
+                     </div>
+                    </div>
+                   </div>
+                  </div>
+                 </li>
+                 <li class="li card-lg-0 card-md-0">
+                  <div class="fl-module-custom fl-module-recent_card_loop fl-node-d41d8cd98f00b204e9800998ecf8427e" data-type="fp-module-recent_card_loop">
+                   <div class="component_recent_card_loop component-recent-card-loop -with-image" data-js-recent_card_loop="">
+                    <div class="pcl-post-card">
+                     <a aria-hidden="true" href="https://www.wired.com/story/russia-ukraine-war-ai-surveillance/" tabindex="-1">
+                      <span class="pcl-content-header lazyload">
+                       <img alt="" class="attachment-box_400_250 size-box_400_250 lazyload" data-src="https://primer.ai/wp-content/uploads/2024/04/As-Russia-plots-its-next-move-400x250.png" decoding="async" height="250" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="--smush-placeholder-width: 400px; --smush-placeholder-aspect-ratio: 400/250;" width="400"/>
+                       <noscript>
+                        <img alt="" class="attachment-box_400_250 size-box_400_250" decoding="async" height="250" loading="lazy" src="https://primer.ai/wp-content/uploads/2024/04/As-Russia-plots-its-next-move-400x250.png" width="400"/>
+                       </noscript>
+                      </span>
+                     </a>
+                     <div class="pcl-content-body">
+                      <div class="post-details">
+                       <div class="pcl-title">
+                        <a href="https://www.wired.com/story/russia-ukraine-war-ai-surveillance/">
+                         <span class="h4">
+                          As Russia plots its next move, an AI listens to the chatter
+                         </span>
+                        </a>
+                       </div>
+                       <div class="pcl-excerpt">
+                        <p>
+                         Primer's AI tools are revolutionizing military intelligence by automatically capturing, transcribing, and analyzing soldiers' communications, highlighting the importance of open-source intelligence.
+                        </p>
+                       </div>
+                      </div>
+                     </div>
+                    </div>
+                   </div>
+                  </div>
+                 </li>
+                </ul>
+               </section>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="fl-col-group fl-node-d8eypsbaqo6j" data-node="d8eypsbaqo6j">
+          <div class="fl-col fl-node-0hjf9m12xi8s" data-node="0hjf9m12xi8s">
+           <div class="fl-col-content fl-node-content">
+            <div class="fl-module fl-module-custom_buttons fl-node-vw3s47gjrcmz" data-node="vw3s47gjrcmz">
+             <div class="fl-module-content fl-node-content">
+              <div class="fl-module-custom fl-module-custom_buttons fl-node-vw3s47gjrcmz" data-type="fp-module-custom_buttons">
+               <div class="component_custom_buttons component-custom-buttons -inline center" id="node-vw3s47gjrcmz">
+                <div class="ul">
+                 <div class="li">
+                  <a class="button-0 text-link" href="https://primer.ai/resource-library/" rel="">
+                   View all
+                   <span>
+                    resources
+                   </span>
+                  </a>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="fl-row fl-row-full-width fl-row-bg-none fl-node-xaq8nvprwftg fl-row-default-height fl-row-align-center" data-node="xaq8nvprwftg">
+       <div class="fl-row-content-wrap">
+        <div class="fl-row-content fl-row-fixed-width fl-node-content">
+         <div class="fl-col-group fl-node-pu1dnkj62340" data-node="pu1dnkj62340">
+          <div class="fl-col fl-node-ne6agtjprcyx fl-col-small" data-node="ne6agtjprcyx">
+           <div class="fl-col-content fl-node-content">
+            <div class="fl-module fl-module-custom_heading fl-node-5oitwgl3m10u" data-node="5oitwgl3m10u">
+             <div class="fl-module-content fl-node-content">
+              <div class="fl-module-custom fl-module-custom_heading fl-node-5oitwgl3m10u" data-type="fp-module-custom_heading">
+               <div class="component_custom_heading component-custom-heading" data-js-custom_heading="">
+                <div class="custom-heading-wrapper">
+                 <h2 class="heading">
+                  <span>
+                   Our team
+                  </span>
+                 </h2>
+                </div>
+                <!-- end custom heading wrapper -->
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="fl-col fl-node-0ds65kroh9x4" data-node="0ds65kroh9x4">
+           <div class="fl-col-content fl-node-content">
+            <div class="fl-module fl-module-rich-text fl-node-la6pvgf48k91" data-node="la6pvgf48k91">
+             <div class="fl-module-content fl-node-content">
+              <div class="fl-rich-text">
+               <p>
+                Diverse backgrounds converge in our team, driven by a singular purpose: making the world a safer place. With deep expertise in NLP, enterprise software, and decades of front-line experience in national security, we equip our customers with trusted AI tools for timely, informed decisions—ensuring safety for all. Primer has a hybrid working environment, with offices in Arlington and San Francisco.
+               </p>
+              </div>
+             </div>
+            </div>
+            <div class="fl-module fl-module-custom_buttons fl-node-6l10nagwsev2" data-node="6l10nagwsev2">
+             <div class="fl-module-content fl-node-content">
+              <div class="fl-module-custom fl-module-custom_buttons fl-node-6l10nagwsev2" data-type="fp-module-custom_buttons">
+               <div class="component_custom_buttons component-custom-buttons -inline left" id="node-6l10nagwsev2">
+                <div class="ul">
+                 <div class="li">
+                  <a class="button-0 text-link" href="#openRoles" rel="">
+                   Join our
+                   <span>
+                    team
+                   </span>
+                  </a>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="fl-col fl-node-i9b4hodqwcpr fl-col-small fl-visible-desktop fl-visible-large" data-node="i9b4hodqwcpr">
+           <div class="fl-col-content fl-node-content">
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="fl-row fl-row-full-width fl-row-bg-none fl-node-015ha4nqy6z3 fl-row-default-height fl-row-align-center" data-node="015ha4nqy6z3">
+       <div class="fl-row-content-wrap">
+        <div class="fl-row-content fl-row-fixed-width fl-node-content">
+         <div class="fl-col-group fl-node-h5pz4mxu3o2c" data-node="h5pz4mxu3o2c">
+          <div class="fl-col fl-node-r0wcd9oimbak" data-node="r0wcd9oimbak">
+           <div class="fl-col-content fl-node-content">
+            <div class="fl-module fl-module-image_mask fl-node-p7y824tiwhou" data-node="p7y824tiwhou">
+             <div class="fl-module-content fl-node-content" style="margin: 0px;">
+              <div class="fl-module-custom fl-module-image_mask fl-node-p7y824tiwhou" data-type="fp-module-image_mask">
+               <div class="component_image_mask component-image-mask -multiple-images mobile-slider" data-js-image_mask="">
+                <ul class="images-wrapper">
+                 <li class="image-shape-mask">
+                  <picture>
+                   <source data-srcset="https://primer.ai/wp-content/uploads/2024/04/b0cc1f3b10965699e8cf952168c29668.jpeg"/>
+                   <img alt="" class="lazyload" decoding="async" height="450" loading="lazy" src="https://primer.ai/wp-content/themes/primerAI/assets/img/ll-placeholder.png" width="450"/>
+                  </picture>
+                  <span class="image-mask hexagon-lines">
+                  </span>
+                 </li>
+                 <li class="image-shape-mask">
+                  <picture>
+                   <source data-srcset="https://primer.ai/wp-content/uploads/2024/04/PRI_Blog-Image-808x466-L11.jpg"/>
+                   <img alt="" class="lazyload" decoding="async" height="450" loading="lazy" src="https://primer.ai/wp-content/themes/primerAI/assets/img/ll-placeholder.png" width="450"/>
+                  </picture>
+                  <span class="image-mask hexagon-lines">
+                  </span>
+                 </li>
+                 <li class="image-shape-mask">
+                  <picture>
+                   <source data-srcset="https://primer.ai/wp-content/uploads/2024/04/1819448c21bcf9937977822b55719253.png"/>
+                   <img alt="" class="lazyload" decoding="async" height="450" loading="lazy" src="https://primer.ai/wp-content/themes/primerAI/assets/img/ll-placeholder.png" width="450"/>
+                  </picture>
+                  <span class="image-mask hexagon-lines">
+                  </span>
+                 </li>
+                </ul>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="fl-row fl-row-full-width fl-row-bg-none fl-node-9xjolki1vfcr fl-row-default-height fl-row-align-center" data-node="9xjolki1vfcr">
+       <div class="fl-row-content-wrap">
+        <div class="fl-row-content fl-row-fixed-width fl-node-content">
+         <div class="fl-col-group fl-node-0nh6q25f7g8c" data-node="0nh6q25f7g8c">
+          <div class="fl-col fl-node-w8svyfigo5bu" data-node="w8svyfigo5bu">
+           <div class="fl-col-content fl-node-content">
+            <div class="fl-module fl-module-custom_heading fl-node-dgp7ct02fvjn" data-node="dgp7ct02fvjn">
+             <div class="fl-module-content fl-node-content">
+              <div class="fl-module-custom fl-module-custom_heading fl-node-dgp7ct02fvjn" data-type="fp-module-custom_heading">
+               <div class="component_custom_heading component-custom-heading" data-js-custom_heading="">
+                <div class="custom-heading-wrapper">
+                 <h2 class="heading">
+                  <span>
+                   Our culture
+                  </span>
+                 </h2>
+                </div>
+                <!-- end custom heading wrapper -->
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="fl-col-group fl-node-a7o2uhrq9bg1" data-node="a7o2uhrq9bg1">
+          <div class="fl-col fl-node-j3as09gupxzc fl-col-small" data-node="j3as09gupxzc">
+           <div class="fl-col-content fl-node-content">
+            <div class="fl-module fl-module-rich-text fl-node-1utnrcsqd572" data-node="1utnrcsqd572">
+             <div class="fl-module-content fl-node-content">
+              <div class="fl-rich-text">
+               <p>
+                Join Primer to make a meaningful impact alongside mission-driven professionals, where personal growth is a constant. Be at the forefront of advancing trusted AI, building and deploying practical solutions in high-stakes environments with guidance from seasoned advisors and leading data scientists.
+               </p>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="fl-col fl-node-i57q6ro01byp fl-col-small" data-node="i57q6ro01byp">
+           <div class="fl-col-content fl-node-content">
+            <div class="fl-module fl-module-rich-text fl-node-56gouphjxya9" data-node="56gouphjxya9">
+             <div class="fl-module-content fl-node-content">
+              <div class="fl-rich-text">
+               <p>
+                Through virtual and in-person events, weekly win celebrations, and interest groups—such as Primer Veterans, Women of Primer and Pets of Primer—our culture cultivates camaraderie and tangible impact, making every day fulfilling and rewarding.
+               </p>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="fl-col-group fl-node-o6y4xbi2w5qp" data-node="o6y4xbi2w5qp">
+          <div class="fl-col fl-node-vb9z6r4pwq23" data-node="vb9z6r4pwq23">
+           <div class="fl-col-content fl-node-content">
+            <div class="fl-module fl-module-text_callout_boxes fl-node-nbpjiyru95e3" data-node="nbpjiyru95e3">
+             <div class="fl-module-content fl-node-content" style="margin: 0px;">
+              <div class="fl-module-custom fl-module-text_callout_boxes fl-node-nbpjiyru95e3" data-type="fp-module-text_callout_boxes">
+               <div class="component_text_callout_boxes component-text-callout-boxes mobile-slider" data-js-text-callout-boxes="" id="node-nbpjiyru95e3">
+                <ul class="callout-row four-column">
+                 <li class="callout-wrapper">
+                  <div>
+                   <h3 class="tb-heading">
+                    Mission first
+                   </h3>
+                   <div class="field-editor">
+                    <p>
+                     <span style="font-weight: 400;">
+                      We put the mission first and partner deeply with our customers to achieve meaningful impact.
+                     </span>
+                    </p>
+                   </div>
+                  </div>
+                 </li>
+                 <li class="callout-wrapper">
+                  <div>
+                   <h3 class="tb-heading">
+                    Take ownership
+                   </h3>
+                   <div class="field-editor">
+                    <p>
+                     At Primer, we move fast and you have autonomy to get things done and make a difference.
+                    </p>
+                   </div>
+                  </div>
+                 </li>
+                 <li class="callout-wrapper">
+                  <div>
+                   <h3 class="tb-heading">
+                    Always human
+                   </h3>
+                   <div class="field-editor">
+                    <p>
+                     We support humans first and foremost. We show up for each other and embrace the diversity of our experiences, ideas, and ways of working.
+                    </p>
+                   </div>
+                  </div>
+                 </li>
+                 <li class="callout-wrapper">
+                  <div>
+                   <h3 class="tb-heading">
+                    Constantly curious
+                   </h3>
+                   <div class="field-editor">
+                    <p>
+                     Innovation requires risk taking, and we create space for life-long learning, exploration and experimentation.
+                    </p>
+                   </div>
+                  </div>
+                 </li>
+                </ul>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="fl-row fl-row-full-width fl-row-bg-color fl-node-27mqva9deji1 fl-row-default-height fl-row-align-center" data-node="27mqva9deji1">
+       <div class="fl-row-content-wrap">
+        <div class="fl-row-content fl-row-fixed-width fl-node-content">
+         <div class="fl-col-group fl-node-2gyz610critl" data-node="2gyz610critl">
+          <div class="fl-col fl-node-og4qxentb0dk fl-col-has-cols" data-node="og4qxentb0dk">
+           <div class="fl-col-content fl-node-content">
+            <div class="fl-col-group fl-node-exmfq2vka4wo fl-col-group-nested" data-node="exmfq2vka4wo">
+             <div class="fl-col fl-node-7qcpjnougiel fl-col-small fl-visible-desktop fl-visible-large fl-visible-medium" data-node="7qcpjnougiel">
+              <div class="fl-col-content fl-node-content">
+              </div>
+             </div>
+             <div class="fl-col fl-node-6w4oxjakundf" data-node="6w4oxjakundf">
+              <div class="fl-col-content fl-node-content">
+               <div class="fl-module fl-module-heading fl-node-ile5ftyzos0v" data-node="ile5ftyzos0v">
+                <div class="fl-module-content fl-node-content">
+                 <h2 class="fl-heading">
+                  <span class="fl-heading-text">
+                   Benefits tailored to you
+                  </span>
+                 </h2>
+                </div>
+               </div>
+               <div class="fl-module fl-module-rich-text fl-node-9vmhcx7topuq" data-node="9vmhcx7topuq">
+                <div class="fl-module-content fl-node-content">
+                 <div class="fl-rich-text">
+                  <p>
+                   Do your best work with our comprehensive support. We prioritize your holistic well-being—physically, emotionally and financially—adapting to your life journey, whether it’s starting a family or caring for aging parents. Join us and experience a workplace that genuinely values you.
+                  </p>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+             <div class="fl-col fl-node-lkpz2owmc89x fl-col-small fl-visible-desktop fl-visible-large fl-visible-medium" data-node="lkpz2owmc89x">
+              <div class="fl-col-content fl-node-content">
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="fl-col-group fl-node-bcsh42qre6wg" data-node="bcsh42qre6wg">
+          <div class="fl-col fl-node-a3cnso6rgtzx" data-node="a3cnso6rgtzx">
+           <div class="fl-col-content fl-node-content">
+            <div class="fl-module fl-module-text_grid fl-node-egn2sw7uqp36" data-node="egn2sw7uqp36">
+             <div class="fl-module-content fl-node-content">
+              <div class="fl-module-custom fl-module-text_grid fl-node-egn2sw7uqp36" data-type="fp-module-text_grid">
+               <section class="component_text_grid component-text-grid accordion-mobile -inline-heading-icon" data-js-text_grid="">
+                <div>
+                 <ul class="text-grid-wrapper -three-column -two-column-md">
+                  <li class="card-lg-0 card-md-0 card-sm-0">
+                   <div class="box-content">
+                    <h3 class="h4 box-title align-">
+                     Health and wellness
+                    </h3>
+                    <div class="box-text align-">
+                     <p>
+                      <span style="font-weight: 400">
+                       Our comprehensive benefits prioritize the well-being of you and your family, offering premium medical, dental, vision, and life insurance. Additionally, our wellness initiatives encompass mental health support and fitness incentives.
+                      </span>
+                     </p>
+                    </div>
+                   </div>
+                  </li>
+                  <li class="card-lg-1 card-md-1 card-sm-0">
+                   <div class="box-content">
+                    <h3 class="h4 box-title align-">
+                     Programs for parents
+                    </h3>
+                    <div class="box-text align-">
+                     <p>
+                      <span style="font-weight: 400">
+                       Birthing parents receive up to 18 weeks of fully paid leave, while non-birthing parents enjoy 8 weeks. We also provide coverage for in vitro fertilization and egg freezing.
+                      </span>
+                     </p>
+                    </div>
+                   </div>
+                  </li>
+                  <li class="card-lg-2 card-md-0 card-sm-0">
+                   <div class="box-content">
+                    <h3 class="h4 box-title align-">
+                     Home-office stipend
+                    </h3>
+                    <div class="box-text align-">
+                     <p>
+                      <span style="font-weight: 400">
+                       All new hires are offered stipends for home office setup and mobile phone and home internet expenses.
+                      </span>
+                     </p>
+                    </div>
+                   </div>
+                  </li>
+                  <li class="card-lg-0 card-md-1 card-sm-0">
+                   <div class="box-content">
+                    <h3 class="h4 box-title align-">
+                     Flexible time off
+                    </h3>
+                    <div class="box-text align-">
+                     <p>
+                      <span style="font-weight: 400">
+                       We value rest and rejuvenation outside of work and offer generous and flexible time off in addition to 12 paid holidays.
+                      </span>
+                     </p>
+                    </div>
+                   </div>
+                  </li>
+                  <li class="card-lg-1 card-md-0 card-sm-0">
+                   <div class="box-content">
+                    <h3 class="h4 box-title align-">
+                     Retirement / 401K
+                    </h3>
+                    <div class="box-text align-">
+                     <p>
+                      <span style="font-weight: 400">
+                       Start now to save for your future.
+                      </span>
+                      <span style="font-weight: 400">
+                       We offer financial benefits and services to give you financial peace of mind.
+                      </span>
+                     </p>
+                    </div>
+                   </div>
+                  </li>
+                  <li class="card-lg-2 card-md-1 card-sm-0">
+                   <div class="box-content">
+                    <h3 class="h4 box-title align-">
+                     Competitive compensation
+                    </h3>
+                    <div class="box-text align-">
+                     <p>
+                      Primer offers competitive salaries, equity, and robust benefits.
+                     </p>
+                    </div>
+                   </div>
+                  </li>
+                 </ul>
+                </div>
+               </section>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="fl-row fl-row-full-width fl-row-bg-color fl-node-sfgnrykmj69h fl-row-default-height fl-row-align-center" data-node="sfgnrykmj69h">
+       <div class="fl-row-content-wrap">
+        <div class="fl-row-content fl-row-fixed-width fl-node-content">
+         <div class="fl-col-group fl-node-bg37i0nz5mxq fl-col-group-equal-height fl-col-group-align-top" data-node="bg37i0nz5mxq">
+          <div class="fl-col fl-node-hl97waui3ek1 fl-col-small" data-node="hl97waui3ek1">
+           <div class="fl-col-content fl-node-content">
+            <div class="fl-module fl-module-custom_heading fl-node-35gav1xdb04c" data-node="35gav1xdb04c">
+             <div class="fl-module-content fl-node-content">
+              <div class="fl-module-custom fl-module-custom_heading fl-node-35gav1xdb04c" data-type="fp-module-custom_heading">
+               <div class="component_custom_heading component-custom-heading" data-js-custom_heading="">
+                <div class="custom-heading-wrapper">
+                 <h2 class="heading">
+                  <span>
+                   Open roles
+                  </span>
+                 </h2>
+                </div>
+                <!-- end custom heading wrapper -->
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="fl-col fl-node-5jh9wsdf0a4c fl-col-small" data-node="5jh9wsdf0a4c">
+           <div class="fl-col-content fl-node-content">
+            <div class="fl-module fl-module-rich-text fl-node-48kitw63o90f" data-node="48kitw63o90f">
+             <div class="fl-module-content fl-node-content">
+              <div class="fl-rich-text">
+               <p>
+                Join Primer and be part of a team effort to build and deploy practical and trusted AI solutions for our nation’s most critical challenges. We value autonomy, diversity, and elevate the best ideas.
+               </p>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="fl-col fl-node-r0komdcq2x9w fl-col-small fl-visible-desktop fl-visible-large" data-node="r0komdcq2x9w">
+           <div class="fl-col-content fl-node-content">
+           </div>
+          </div>
+         </div>
+         <div class="fl-col-group fl-node-h8zxbe4mstf0" data-node="h8zxbe4mstf0">
+          <div class="fl-col fl-node-bghqxkd2otwc" data-node="bghqxkd2otwc">
+           <div class="fl-col-content fl-node-content">
+            <div class="fl-module fl-module-fp_careers fl-node-fx2ikuavethj" data-node="fx2ikuavethj" id="openRoles">
+             <div class="fl-module-content fl-node-content">
+              <div class="fl-module-custom fl-module-fp_careers fl-node-fx2ikuavethj" data-type="fp-module-fp_careers">
+               <section class="component_fp_careers component-fp-careers" data-filter-limit="24" data-js-fp_careers="" id="fx2ikuavethj">
+                <div class="careers-header" id="careersHeader-fx2ikuavethj">
+                 <ul aria-label="Horizontal list of categories" class="filters">
+                  <li>
+                   <button aria-controls="careerList-fx2ikuavethj" class="outline active" data-filterby="1" type="button">
+                    All
+                   </button>
+                  </li>
+                  <li>
+                   <button aria-controls="careerList-fx2ikuavethj" class="outline" data-filterby="4018561003" type="button">
+                    San Francisco
+                   </button>
+                  </li>
+                  <li>
+                   <button aria-controls="careerList-fx2ikuavethj" class="outline" data-filterby="4019313003" type="button">
+                    Washington DC
+                   </button>
+                  </li>
+                 </ul>
+                </div>
+                <div class="career-listings">
+                 <div class="status screen-reader-text" role="status">
+                  Showing
+                  <span class="status-inc">
+                   10
+                  </span>
+                  results
+                 </div>
+                 <div aria-hidden="true" class="items-loading hidden" tabindex="-1">
+                  <div class="loading-text">
+                   Loading
+                  </div>
+                  <span aria-hidden="true" class="ellipses" tabindex="-1">
+                   <span>
+                   </span>
+                   <span>
+                   </span>
+                   <span>
+                   </span>
+                   <span>
+                   </span>
+                  </span>
+                 </div>
+                 <div class="career-wrapper" id="careerList-fx2ikuavethj">
+                  <div class="job-list">
+                   <h3 aria-label="Department: Engineering" id="department4026490003">
+                    Engineering
+                   </h3>
+                   <ul aria-labelledby="department4026490003">
+                    <li class="job-item">
+                     <a href="https://boards.greenhouse.io/primerai/jobs/5731164003" target="_blank">
+                      <span class="job-item-title h6">
+                       Machine Learning Engineer
+                      </span>
+                      <span class="job-item-location">
+                       San Francisco, California, United States
+                      </span>
+                     </a>
+                    </li>
+                    <li class="job-item">
+                     <a href="https://boards.greenhouse.io/primerai/jobs/5996286003" target="_blank">
+                      <span class="job-item-title h6">
+                       Senior Forward Deployed Engineer (Clearance Required)
+                      </span>
+                      <span class="job-item-location">
+                       Washington, District of Columbia, United States
+                      </span>
+                     </a>
+                    </li>
+                    <li class="job-item">
+                     <a href="https://boards.greenhouse.io/primerai/jobs/4376519003" target="_blank">
+                      <span class="job-item-title h6">
+                       Senior Security Engineer
+                      </span>
+                      <span class="job-item-location">
+                       San Francisco, California, United States
+                      </span>
+                     </a>
+                    </li>
+                    <li class="job-item">
+                     <a href="https://boards.greenhouse.io/primerai/jobs/5939233003" target="_blank">
+                      <span class="job-item-title h6">
+                       Staff Machine Learning Research Scientist
+                      </span>
+                      <span class="job-item-location">
+                       San Francisco, California, United States
+                      </span>
+                     </a>
+                    </li>
+                    <li class="job-item">
+                     <a href="https://boards.greenhouse.io/primerai/jobs/5798860003" target="_blank">
+                      <span class="job-item-title h6">
+                       Staff Software Engineer, Back End
+                      </span>
+                      <span class="job-item-location">
+                       San Francisco, California, United States
+                      </span>
+                     </a>
+                    </li>
+                   </ul>
+                  </div>
+                  <div class="job-list">
+                   <h3 aria-label="Department: Federal GTM" id="department4026488003">
+                    Federal GTM
+                   </h3>
+                   <ul aria-labelledby="department4026488003">
+                    <li class="job-item">
+                     <a href="https://boards.greenhouse.io/primerai/jobs/4386147003" target="_blank">
+                      <span class="job-item-title h6">
+                       Sales Development Representative
+                      </span>
+                      <span class="job-item-location">
+                       Washington, District of Columbia, United States
+                      </span>
+                     </a>
+                    </li>
+                    <li class="job-item">
+                     <a href="https://boards.greenhouse.io/primerai/jobs/5512494003" target="_blank">
+                      <span class="job-item-title h6">
+                       Senior Technical Delivery Manager
+                      </span>
+                      <span class="job-item-location">
+                       San Francisco, California, United States
+                      </span>
+                     </a>
+                    </li>
+                    <li class="job-item">
+                     <a href="https://boards.greenhouse.io/primerai/jobs/5665558003" target="_blank">
+                      <span class="job-item-title h6">
+                       Solutions Architect
+                      </span>
+                      <span class="job-item-location">
+                       Washington, District of Columbia, United States
+                      </span>
+                     </a>
+                    </li>
+                   </ul>
+                  </div>
+                  <div class="job-list">
+                   <h3 aria-label="Department: Marketing" id="department4026489003">
+                    Marketing
+                   </h3>
+                   <ul aria-labelledby="department4026489003">
+                    <li class="job-item">
+                     <a href="https://boards.greenhouse.io/primerai/jobs/5868058003" target="_blank">
+                      <span class="job-item-title h6">
+                       Senior Program Manager, Events Marketing
+                      </span>
+                      <span class="job-item-location">
+                       Washington, District of Columbia, United States
+                      </span>
+                     </a>
+                    </li>
+                   </ul>
+                  </div>
+                  <div class="job-list">
+                   <h3 aria-label="Department: Product" id="department4026485003">
+                    Product
+                   </h3>
+                   <ul aria-labelledby="department4026485003">
+                    <li class="job-item">
+                     <a href="https://boards.greenhouse.io/primerai/jobs/5593359003" target="_blank">
+                      <span class="job-item-title h6">
+                       Product Manager
+                      </span>
+                      <span class="job-item-location">
+                       San Francisco, California, United States
+                      </span>
+                     </a>
+                    </li>
+                   </ul>
+                  </div>
+                 </div>
+                </div>
+               </section>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="fl-row fl-row-full-width fl-row-bg-color fl-node-8cf2sedh0ila fl-row-default-height fl-row-align-center" data-node="8cf2sedh0ila">
+       <div class="fl-row-content-wrap">
+        <div class="fl-row-content fl-row-fixed-width fl-node-content">
+         <div class="fl-col-group fl-node-fwvyit8g0xco" data-node="fwvyit8g0xco">
+          <div class="fl-col fl-node-gz0lu91xdt8n" data-node="gz0lu91xdt8n">
+           <div class="fl-col-content fl-node-content">
+            <div class="fl-module fl-module-custom_heading fl-node-6psgeb35uvci" data-node="6psgeb35uvci">
+             <div class="fl-module-content fl-node-content">
+              <div class="fl-module-custom fl-module-custom_heading fl-node-6psgeb35uvci" data-type="fp-module-custom_heading">
+               <div class="component_custom_heading component-custom-heading" data-js-custom_heading="">
+                <p class="subtitle custom-theme">
+                 <span>
+                  What's new
+                 </span>
+                </p>
+                <div class="custom-heading-wrapper">
+                 <h2 class="heading">
+                  <span>
+                   Primer in the news
+                  </span>
+                 </h2>
+                </div>
+                <!-- end custom heading wrapper -->
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="fl-col-group fl-node-qlgk14o6abmh" data-node="qlgk14o6abmh">
+          <div class="fl-col fl-node-7sodx2n98gi4" data-node="7sodx2n98gi4">
+           <div class="fl-col-content fl-node-content">
+            <div class="fl-module fl-module-fp_recent_posts fl-node-0yxwau374e1d" data-node="0yxwau374e1d">
+             <div class="fl-module-content fl-node-content" style="margin: 0px;">
+              <div class="fl-module-custom fl-module-fp_recent_posts fl-node-0yxwau374e1d" data-type="fp-module-fp_recent_posts">
+               <section class="component_fp_recent_posts component-fp-recent-posts -three-column blog mobile-slider" data-js-fp_recent_posts="" id="node-">
+                <ul class="ul recent-blog-row rp-grid-wrapper -three-column">
+                 <li class="li card-lg-0 card-md-0">
+                  <div class="fl-module-custom fl-module-recent_card_loop fl-node-d41d8cd98f00b204e9800998ecf8427e" data-type="fp-module-recent_card_loop">
+                   <div class="component_recent_card_loop component-recent-card-loop -with-image" data-js-recent_card_loop="">
+                    <div class="pcl-post-card">
+                     <a aria-hidden="true" href="https://primer.ai/news/primer-technologies-strengthens-senior-leadership-team-with-key-appointments/" tabindex="-1">
+                      <span class="pcl-content-header lazyload">
+                       <img alt="" class="attachment-box_400_250 size-box_400_250 lazyload" data-src="https://primer.ai/wp-content/uploads/2024/01/leadership-pr_blue-400x250.png" decoding="async" height="250" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="--smush-placeholder-width: 400px; --smush-placeholder-aspect-ratio: 400/250;" width="400"/>
+                       <noscript>
+                        <img alt="" class="attachment-box_400_250 size-box_400_250" decoding="async" height="250" loading="lazy" src="https://primer.ai/wp-content/uploads/2024/01/leadership-pr_blue-400x250.png" width="400"/>
+                       </noscript>
+                      </span>
+                     </a>
+                     <div class="pcl-content-body">
+                      <div class="post-details">
+                       <div class="pcl-title">
+                        <a href="https://primer.ai/news/primer-technologies-strengthens-senior-leadership-team-with-key-appointments/">
+                         <span class="h4">
+                          Primer Technologies strengthens senior leadership team with key appointments
+                         </span>
+                        </a>
+                       </div>
+                       <div class="pcl-excerpt">
+                        <p>
+                         Primer Technologies, an AI/ML technology firm specializing in decision-ready AI, has appointed three accomplished professionals to its executive leadership team.
+                        </p>
+                       </div>
+                      </div>
+                      <div class="post-link">
+                       <a class="text-link" href="https://primer.ai/news/primer-technologies-strengthens-senior-leadership-team-with-key-appointments/" rel="">
+                        Read
+                        <span>
+                         more
+                        </span>
+                       </a>
+                      </div>
+                     </div>
+                    </div>
+                   </div>
+                  </div>
+                 </li>
+                 <li class="li card-lg-0 card-md-0">
+                  <div class="fl-module-custom fl-module-recent_card_loop fl-node-d41d8cd98f00b204e9800998ecf8427e" data-type="fp-module-recent_card_loop">
+                   <div class="component_recent_card_loop component-recent-card-loop -with-image" data-js-recent_card_loop="">
+                    <div class="pcl-post-card">
+                     <a aria-hidden="true" href="https://www.c4isrnet.com/opinion/2023/08/04/to-go-faster-on-ai-think-small-and-build-trust/" tabindex="-1">
+                      <span class="pcl-content-header lazyload">
+                       <img alt="" class="attachment-box_400_250 size-box_400_250 lazyload" data-src="https://primer.ai/wp-content/uploads/2024/04/To-go-faster-on-AI-400x250.png" decoding="async" height="250" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="--smush-placeholder-width: 400px; --smush-placeholder-aspect-ratio: 400/250;" width="400"/>
+                       <noscript>
+                        <img alt="" class="attachment-box_400_250 size-box_400_250" decoding="async" height="250" loading="lazy" src="https://primer.ai/wp-content/uploads/2024/04/To-go-faster-on-AI-400x250.png" width="400"/>
+                       </noscript>
+                      </span>
+                     </a>
+                     <div class="pcl-content-body">
+                      <div class="post-details">
+                       <div class="pcl-title">
+                        <a href="https://www.c4isrnet.com/opinion/2023/08/04/to-go-faster-on-ai-think-small-and-build-trust/">
+                         <span class="h4">
+                          To go faster on AI start small to build trust
+                         </span>
+                        </a>
+                       </div>
+                       <div class="pcl-excerpt">
+                        <p>
+                         To accelerate AI adoption, the Defense Department and innovators should prioritize trust-building over hype, focusing on practical and reliable AI.
+                        </p>
+                       </div>
+                      </div>
+                      <div class="post-link">
+                       <a class="text-link" href="https://www.c4isrnet.com/opinion/2023/08/04/to-go-faster-on-ai-think-small-and-build-trust/" rel="">
+                        Read
+                        <span>
+                         more
+                        </span>
+                       </a>
+                      </div>
+                     </div>
+                    </div>
+                   </div>
+                  </div>
+                 </li>
+                 <li class="li card-lg-0 card-md-0">
+                  <div class="fl-module-custom fl-module-recent_card_loop fl-node-d41d8cd98f00b204e9800998ecf8427e" data-type="fp-module-recent_card_loop">
+                   <div class="component_recent_card_loop component-recent-card-loop -with-image" data-js-recent_card_loop="">
+                    <div class="pcl-post-card">
+                     <a aria-hidden="true" href="https://primer.ai/news/primer-assessed-awardable-for-dod-work-in-the-cdaos-tradewinds-solutions-marketplace/" tabindex="-1">
+                      <span class="pcl-content-header lazyload">
+                       <img alt="" class="attachment-box_400_250 size-box_400_250 lazyload" data-src="https://primer.ai/wp-content/uploads/2024/04/Tradewinds-Press-Release-400x250.png" decoding="async" height="250" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="--smush-placeholder-width: 400px; --smush-placeholder-aspect-ratio: 400/250;" width="400"/>
+                       <noscript>
+                        <img alt="" class="attachment-box_400_250 size-box_400_250" decoding="async" height="250" loading="lazy" src="https://primer.ai/wp-content/uploads/2024/04/Tradewinds-Press-Release-400x250.png" width="400"/>
+                       </noscript>
+                      </span>
+                     </a>
+                     <div class="pcl-content-body">
+                      <div class="post-details">
+                       <div class="pcl-title">
+                        <a href="https://primer.ai/news/primer-assessed-awardable-for-dod-work-in-the-cdaos-tradewinds-solutions-marketplace/">
+                         <span class="h4">
+                          Primer's AI solutions now available on CDAO’s Tradewinds Solutions Marketplace
+                         </span>
+                        </a>
+                       </div>
+                       <div class="pcl-excerpt">
+                        <p>
+                         Primer's AI solutions are now available on Tradewinds, offering the Department of Defense a suite of tools to expedite the procurement and adoption of AI/ML, data, and analytics.
+                        </p>
+                       </div>
+                      </div>
+                      <div class="post-link">
+                       <a class="text-link" href="https://primer.ai/news/primer-assessed-awardable-for-dod-work-in-the-cdaos-tradewinds-solutions-marketplace/" rel="">
+                        Read
+                        <span>
+                         more
+                        </span>
+                       </a>
+                      </div>
+                     </div>
+                    </div>
+                   </div>
+                  </div>
+                 </li>
+                </ul>
+               </section>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </article>
+    <!-- #post-## -->
+   </div>
+   <!-- .primary -->
+   <!-- #content -->
+   <footer class="site-footer">
+    <link href="/wp-content/themes/primerAI/dist/components/mega_menu_breakpoints/mega_menu_breakpoints.min.css?ver=1.0.5&amp;m=May-16-2024-14-26" id="fp-mega_menu_breakpoints_css-css" media="all" rel="stylesheet" type="text/css"/>
+    <link href="/wp-content/themes/primerAI/dist/components/mega_menu_breakpoints/mega_menu_breakpoints_theme.min.css?ver=1.0.5&amp;m=May-16-2024-14-26" id="fp-mega_menu_breakpoints_css_theme-css" media="all" rel="stylesheet" type="text/css"/>
+    <link href="/wp-content/themes/primerAI/dist/components/home_hero/home_hero.min.css?ver=1.0.7&amp;m=May-16-2024-13-31" id="fp-home_hero_css-css" media="all" rel="stylesheet" type="text/css"/>
+    <link href="/wp-content/themes/primerAI/dist/components/home_hero/home_hero_theme.min.css?ver=1.0.7&amp;m=May-16-2024-13-31" id="fp-home_hero_css_theme-css" media="all" rel="stylesheet" type="text/css"/>
+    <link href="/wp-content/themes/primerAI/dist/components/custom_heading/custom_heading.min.css?ver=1.0.2&amp;m=Jan-03-2023-19-35" id="fp-custom_heading_css-css" media="all" onload='if(media!="all")media="all"' rel="stylesheet" type="text/css"/>
+    <link href="/wp-content/themes/primerAI/dist/components/custom_heading/custom_heading_theme.min.css?ver=1.0.2&amp;m=May-16-2024-13-31" id="fp-custom_heading_css_theme-css" media="all" onload='if(media!="all")media="all"' rel="stylesheet" type="text/css"/>
+    <link href="/wp-content/themes/primerAI/dist/components/fp_recent_posts/fp_recent_posts.min.css?ver=1.0&amp;m=May-16-2024-13-31" id="fp-fp_recent_posts_css-css" media="all" onload='if(media!="all")media="all"' rel="stylesheet" type="text/css"/>
+    <link href="/wp-content/themes/primerAI/dist/components/fp_recent_posts/fp_recent_posts_theme.min.css?ver=1.0&amp;m=May-16-2024-13-31" id="fp-fp_recent_posts_css_theme-css" media="all" onload='if(media!="all")media="all"' rel="stylesheet" type="text/css"/>
+    <link href="/wp-content/themes/primerAI/dist/components/recent_card_loop/recent_card_loop.min.css?ver=1.0&amp;m=May-16-2024-13-31" id="fp-recent_card_loop_css-css" media="all" onload='if(media!="all")media="all"' rel="stylesheet" type="text/css"/>
+    <link href="/wp-content/themes/primerAI/dist/components/custom_buttons/custom_buttons.min.css?ver=1.0.2&amp;m=May-16-2024-13-31" id="fp-custom_buttons_css-css" media="all" onload='if(media!="all")media="all"' rel="stylesheet" type="text/css"/>
+    <link href="/wp-content/themes/primerAI/dist/components/custom_buttons/custom_buttons_theme.min.css?ver=1.0.2&amp;m=May-16-2024-13-31" id="fp-custom_buttons_css_theme-css" media="all" onload='if(media!="all")media="all"' rel="stylesheet" type="text/css"/>
+    <link href="/wp-content/themes/primerAI/dist/components/image_mask/image_mask.min.css?ver=1.0&amp;m=May-16-2024-13-31" id="fp-image_mask_css-css" media="all" onload='if(media!="all")media="all"' rel="stylesheet" type="text/css"/>
+    <link href="/wp-content/themes/primerAI/dist/components/text_callout_boxes/text_callout_boxes.min.css?ver=1.0.1&amp;m=May-16-2024-13-31" id="fp-text_callout_boxes_css-css" media="all" onload='if(media!="all")media="all"' rel="stylesheet" type="text/css"/>
+    <link href="/wp-content/themes/primerAI/dist/components/text_callout_boxes/text_callout_boxes_theme.min.css?ver=1.0.1&amp;m=May-16-2024-13-31" id="fp-text_callout_boxes_css_theme-css" media="all" onload='if(media!="all")media="all"' rel="stylesheet" type="text/css"/>
+    <link href="/wp-content/themes/primerAI/dist/components/text_grid/text_grid.min.css?ver=1.0.2&amp;m=May-16-2024-13-31" id="fp-text_grid_css-css" media="all" onload='if(media!="all")media="all"' rel="stylesheet" type="text/css"/>
+    <link href="/wp-content/themes/primerAI/dist/components/fp_careers/fp_careers.min.css?ver=1.0&amp;m=May-16-2024-13-31" id="fp-fp_careers_css-css" media="all" onload='if(media!="all")media="all"' rel="stylesheet" type="text/css"/>
+    <div class="fl-builder-content fl-builder-content-3396 fl-builder-template fl-builder-row-template fl-builder-global-templates-locked" data-post-id="3396">
+     <footer class="fl-row fl-row-full-width fl-row-bg-photo fl-node-xsbujd6r8ivw fl-row-default-height fl-row-align-top" data-node="xsbujd6r8ivw" id="footerRow">
+      <div class="fl-row-content-wrap">
+       <div class="fl-row-content fl-row-fixed-width fl-node-content">
+        <div class="fl-col-group fl-node-i9atf4pk8rn5" data-node="i9atf4pk8rn5">
+         <div class="fl-col fl-node-v8dix3njlw7z fl-col-small fl-col-has-cols" data-node="v8dix3njlw7z">
+          <div class="fl-col-content fl-node-content">
+           <div class="fl-module fl-module-photo fl-node-row8y47cml1s" data-node="row8y47cml1s">
+            <div class="fl-module-content fl-node-content">
+             <div class="fl-photo fl-photo-align-left" itemscope="" itemtype="https://schema.org/ImageObject">
+              <div class="fl-photo-content fl-photo-img-svg">
+               <img alt="" class="fl-photo-img lazyload" data-src="https://primer.ai/wp-content/uploads/2024/05/Primer-new-logo.svg" decoding="async" itemprop="image" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+               <noscript>
+                <img alt="" class="fl-photo-img" decoding="async" itemprop="image" src="https://primer.ai/wp-content/uploads/2024/05/Primer-new-logo.svg"/>
+               </noscript>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="fl-module fl-module-custom_buttons fl-node-0c6fzujh3a8b" data-node="0c6fzujh3a8b">
+            <div class="fl-module-content fl-node-content">
+             <div class="fl-module-custom fl-module-custom_buttons fl-node-0c6fzujh3a8b" data-type="fp-module-custom_buttons">
+              <div class="component_custom_buttons component-custom-buttons -newline left left-md left-sm" id="node-0c6fzujh3a8b">
+               <div class="ul">
+                <div class="li -text-before">
+                 <a class="Default Default_button button-0 button" href="https://primer.ai/book-a-demo/" rel="">
+                  BOOK A DEMO
+                 </a>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="fl-col-group fl-node-n7svlh9r81fk fl-col-group-nested" data-node="n7svlh9r81fk">
+            <div class="fl-col fl-node-tucbn3a5z29v" data-node="tucbn3a5z29v">
+             <div class="fl-col-content fl-node-content">
+              <div class="fl-module fl-module-rich-text fl-node-v2iokp9x6d0w fl-visible-desktop fl-visible-large fl-visible-medium" data-node="v2iokp9x6d0w">
+               <div class="fl-module-content fl-node-content">
+                <div class="fl-rich-text">
+                 <p>
+                  Connect with us
+                 </p>
+                </div>
+               </div>
+              </div>
+              <div class="fl-module fl-module-icon-group fl-node-zyswqtvj9d5h fl-visible-desktop fl-visible-large fl-visible-medium" data-node="zyswqtvj9d5h">
+               <div class="fl-module-content fl-node-content">
+                <div class="fl-icon-group">
+                 <span class="fl-icon">
+                  <a href="https://www.linkedin.com/company/primer-ai" target="_self">
+                   <i aria-hidden="true" class="fab fa-linkedin-in">
+                   </i>
+                   <span class="sr-only">
+                    Opens twitter in new window
+                   </span>
+                  </a>
+                 </span>
+                 <span class="fl-icon">
+                  <a href="https://twitter.com/primer_ai" rel="noopener" target="_blank">
+                   <i aria-hidden="true" class="icon-x-icon">
+                   </i>
+                   <span class="sr-only">
+                    Opens twitter in new window
+                   </span>
+                  </a>
+                 </span>
+                 <span class="fl-icon">
+                  <a href="https://www.youtube.com/channel/UCEBqJFQh43ngkjmED6agIDQ/videos" rel="noopener" target="_blank">
+                   <i aria-hidden="true" class="fab fa-youtube">
+                   </i>
+                   <span class="sr-only">
+                    Opens youtube in a new tab
+                   </span>
+                  </a>
+                 </span>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="fl-col fl-node-1meaorjp6cwx fl-col-has-cols" data-node="1meaorjp6cwx">
+          <div class="fl-col-content fl-node-content">
+           <div class="fl-col-group fl-node-i680w742rvko fl-col-group-nested" data-node="i680w742rvko">
+            <div class="fl-col fl-node-4pmfqi1cuvxe fl-col-small" data-node="4pmfqi1cuvxe">
+             <div class="fl-col-content fl-node-content">
+              <div class="fl-module fl-module-basic_menu fl-node-sub29pc1wx8f" data-node="sub29pc1wx8f">
+               <div class="fl-module-content fl-node-content">
+                <div class="fl-module-custom fl-module-basic_menu fl-node-sub29pc1wx8f" data-type="fp-module-basic_menu">
+                 <div class="component_basic_menu component-basic-menu expanded navigation-theme navigation-theme_background accordion-mobile" data-js-component-basic-menu="" id="node-sub29pc1wx8f" mobile-visible="">
+                  <h2 class="basic-menu-title header f5f5f5" id="basic-heading-sub29pc1wx8f">
+                   Products
+                   <span aria-hidden="true">
+                   </span>
+                  </h2>
+                  <ul aria-labelledby="basic-heading-sub29pc1wx8f" class="basic-menu-list">
+                   <li>
+                    <a class="" href="https://primer.ai/primer-delta/">
+                     Primer Delta
+                    </a>
+                   </li>
+                   <li>
+                    <a class="" href="https://primer.ai/primer-command/">
+                     Primer Command
+                    </a>
+                   </li>
+                  </ul>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+            <div class="fl-col fl-node-fkduey2z4701 fl-col-small" data-node="fkduey2z4701">
+             <div class="fl-col-content fl-node-content">
+              <div class="fl-module fl-module-basic_menu fl-node-jm21rxazlthu" data-node="jm21rxazlthu">
+               <div class="fl-module-content fl-node-content">
+                <div class="fl-module-custom fl-module-basic_menu fl-node-jm21rxazlthu" data-type="fp-module-basic_menu">
+                 <div class="component_basic_menu component-basic-menu expanded navigation-theme navigation-theme_background accordion-mobile" data-js-component-basic-menu="" id="node-jm21rxazlthu" mobile-visible="">
+                  <h2 class="basic-menu-title header ffffff" id="basic-heading-jm21rxazlthu">
+                   Industry
+                   <span aria-hidden="true">
+                   </span>
+                  </h2>
+                  <ul aria-labelledby="basic-heading-jm21rxazlthu" class="basic-menu-list">
+                   <li>
+                    <a class="" href="https://primer.ai/industry-defense/">
+                     Defense
+                    </a>
+                   </li>
+                   <li>
+                    <a class="" href="https://primer.ai/industry-intelligence/">
+                     Intelligence
+                    </a>
+                   </li>
+                  </ul>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+            <div class="fl-col fl-node-g2o1npq3f0kl fl-col-small" data-node="g2o1npq3f0kl">
+             <div class="fl-col-content fl-node-content">
+              <div class="fl-module fl-module-basic_menu fl-node-rkw58bolxijm" data-node="rkw58bolxijm">
+               <div class="fl-module-content fl-node-content">
+                <div class="fl-module-custom fl-module-basic_menu fl-node-rkw58bolxijm" data-type="fp-module-basic_menu">
+                 <div class="component_basic_menu component-basic-menu expanded navigation-theme navigation-theme_background accordion-mobile" data-js-component-basic-menu="" id="node-rkw58bolxijm" mobile-visible="">
+                  <h2 class="basic-menu-title header ffffff" id="basic-heading-rkw58bolxijm">
+                   Technology
+                   <span aria-hidden="true">
+                   </span>
+                  </h2>
+                  <ul aria-labelledby="basic-heading-rkw58bolxijm" class="basic-menu-list">
+                   <li>
+                    <a class="" href="https://primer.ai/technology/">
+                     Tech Overview
+                    </a>
+                   </li>
+                   <li>
+                    <a class="" href="https://primer.ai/technology/ai-cost-optimization/">
+                     AI Cost Optimization
+                    </a>
+                   </li>
+                   <li>
+                    <a class="" href="https://primer.ai/technology/semantic-search/">
+                     Semantic Search
+                    </a>
+                   </li>
+                  </ul>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+            <div class="fl-col fl-node-s17pn8wd2qef fl-col-small" data-node="s17pn8wd2qef">
+             <div class="fl-col-content fl-node-content">
+              <div class="fl-module fl-module-basic_menu fl-node-q0jeafhi39rm" data-node="q0jeafhi39rm">
+               <div class="fl-module-content fl-node-content">
+                <div class="fl-module-custom fl-module-basic_menu fl-node-q0jeafhi39rm" data-type="fp-module-basic_menu">
+                 <div class="component_basic_menu component-basic-menu expanded navigation-theme navigation-theme_background accordion-mobile" data-js-component-basic-menu="" id="node-q0jeafhi39rm" mobile-visible="">
+                  <h2 class="basic-menu-title header ffffff" id="basic-heading-q0jeafhi39rm">
+                   Resources
+                   <span aria-hidden="true">
+                   </span>
+                  </h2>
+                  <ul aria-labelledby="basic-heading-q0jeafhi39rm" class="basic-menu-list">
+                   <li>
+                    <a class="" href="https://primer.ai/resource-library/">
+                     Library
+                    </a>
+                   </li>
+                   <li>
+                    <a class="" href="https://primer.ai/blog/">
+                     Blog
+                    </a>
+                   </li>
+                   <li>
+                    <a class="" href="https://primer.ai/newsroom/">
+                     Newsroom
+                    </a>
+                   </li>
+                   <li>
+                    <a class="" href="https://primer.ai/events/">
+                     Events
+                    </a>
+                   </li>
+                  </ul>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+            <div class="fl-col fl-node-3osdl9w150kq fl-col-small" data-node="3osdl9w150kq">
+             <div class="fl-col-content fl-node-content">
+              <div class="fl-module fl-module-basic_menu fl-node-2weq9s8cabnl" data-node="2weq9s8cabnl">
+               <div class="fl-module-content fl-node-content">
+                <div class="fl-module-custom fl-module-basic_menu fl-node-2weq9s8cabnl" data-type="fp-module-basic_menu">
+                 <div class="component_basic_menu component-basic-menu expanded navigation-theme navigation-theme_background accordion-mobile" data-js-component-basic-menu="" id="node-2weq9s8cabnl" mobile-visible="">
+                  <h2 class="basic-menu-title header ffffff" id="basic-heading-2weq9s8cabnl">
+                   Company
+                   <span aria-hidden="true">
+                   </span>
+                  </h2>
+                  <ul aria-labelledby="basic-heading-2weq9s8cabnl" class="basic-menu-list">
+                   <li>
+                    <a class="" href="https://primer.ai/about-primer/">
+                     About
+                    </a>
+                   </li>
+                   <li>
+                    <a class="" href="https://primer.ai/leadership/">
+                     Leadership
+                    </a>
+                   </li>
+                   <li>
+                    <a class="" href="https://primer.ai/about-primer/careers/">
+                     Careers
+                    </a>
+                   </li>
+                   <li>
+                    <a class="" href="https://primer.ai/partners/">
+                     Partners
+                    </a>
+                   </li>
+                   <li>
+                    <a class="" href="https://primer.ai/security-and-compliance/">
+                     Security &amp; Compliance
+                    </a>
+                   </li>
+                   <li>
+                    <a class="" href="https://primer.ai/contact/">
+                     Contact us
+                    </a>
+                   </li>
+                  </ul>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="fl-col-group fl-node-vyf348qwhbcl" data-node="vyf348qwhbcl">
+         <div class="fl-col fl-node-1cl8ub0e4gq7" data-node="1cl8ub0e4gq7">
+          <div class="fl-col-content fl-node-content">
+           <div class="fl-module fl-module-custom_separator fl-node-ipsgdwlum15a fl-visible-mobile" data-node="ipsgdwlum15a">
+            <div class="fl-module-content fl-node-content">
+             <div class="fl-module-custom fl-module-custom_separator fl-node-ipsgdwlum15a" data-type="fp-module-custom_separator">
+              <!-- -->
+              <div aria-hidden="true" class="component_custom_separator component-custom-separator" data-js-custom_separator="" tabindex="-1">
+               <span class="cs-separator">
+               </span>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="fl-col-group fl-node-2pgysfnb451d" data-node="2pgysfnb451d">
+         <div class="fl-col fl-node-ektfscizb5gh" data-node="ektfscizb5gh">
+          <div class="fl-col-content fl-node-content">
+           <div class="fl-module fl-module-icon-group fl-node-h09nbmv8su17 fl-visible-mobile" data-node="h09nbmv8su17">
+            <div class="fl-module-content fl-node-content">
+             <div class="fl-icon-group">
+              <span class="fl-icon">
+               <a href="https://www.linkedin.com/company/primer-ai" target="_self">
+                <i aria-hidden="true" class="fab fa-linkedin-in">
+                </i>
+                <span class="sr-only">
+                 Opens twitter in new window
+                </span>
+               </a>
+              </span>
+              <span class="fl-icon">
+               <a href="https://twitter.com/primer_ai" rel="noopener" target="_blank">
+                <i aria-hidden="true" class="icon-x-icon">
+                </i>
+                <span class="sr-only">
+                 Opens twitter in new window
+                </span>
+               </a>
+              </span>
+              <span class="fl-icon">
+               <a href="https://www.youtube.com/channel/UCEBqJFQh43ngkjmED6agIDQ/videos" rel="noopener" target="_blank">
+                <i aria-hidden="true" class="fab fa-youtube">
+                </i>
+                <span class="sr-only">
+                 Opens youtube in a new tab
+                </span>
+               </a>
+              </span>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="fl-col-group fl-node-35vzrtl4amyu fl-col-group-custom-width" data-node="35vzrtl4amyu">
+         <div class="fl-col fl-node-dvocnpazuwq1 fl-col-small fl-col-small-custom-width" data-node="dvocnpazuwq1">
+          <div class="fl-col-content fl-node-content">
+           <div class="fl-module fl-module-rich-text fl-node-9l6ev1upy3kt" data-node="9l6ev1upy3kt">
+            <div class="fl-module-content fl-node-content">
+             <div class="fl-rich-text">
+              <p>
+               © 2024 PrimerAI All Rights Reserved.
+              </p>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="fl-col fl-node-welg0ynk5qju fl-col-small-custom-width footer-copyright" data-node="welg0ynk5qju">
+          <div class="fl-col-content fl-node-content">
+           <div class="fl-module fl-module-basic_menu fl-node-kofmitclzd87 copyright-links" data-node="kofmitclzd87">
+            <div class="fl-module-content fl-node-content">
+             <div class="fl-module-custom fl-module-basic_menu fl-node-kofmitclzd87" data-type="fp-module-basic_menu">
+              <div class="component_basic_menu component-basic-menu expanded navigation-theme navigation-theme_background -no-title" data-js-component-basic-menu="" id="node-kofmitclzd87" mobile-visible="">
+               <ul aria-label="Privacy Policy (Updated December 12, 2022)" class="basic-menu-list">
+                <li>
+                 <a class="" href="https://primer.ai/privacy-policy/">
+                  Privacy Policy (Updated December 12, 2022)
+                 </a>
+                </li>
+                <li>
+                 <a class="" href="https://primer.ai/terms-of-use/">
+                  Terms of Use
+                 </a>
+                </li>
+                <li>
+                 <a class="cookie-control cookie-control-button" href="#">
+                  Cookie Control
+                 </a>
+                </li>
+                <li>
+                 <a class="" href="https://primer.ai/modern-slavery-and-human-trafficking-statement/">
+                  Modern Slavery Statement
+                 </a>
+                </li>
+               </ul>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </footer>
+    </div>
+   </footer>
+   <!-- .site-footer container-->
+  </main>
+  <!-- #page -->
+  <link href="/wp-includes/css/dashicons.min.css?ver=6.5.2&amp;m=Mar-03-2021-21-16" id="dashicons-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="/wp-content/themes/primerAI/dist/components/basic_menu/basic_menu.min.css?ver=1.0.2&amp;m=May-16-2024-13-31" id="fp-basic_menu_css-css" media="all" onload='if(media!="all")media="all"' rel="stylesheet" type="text/css"/>
+  <link href="/wp-content/themes/primerAI/dist/components/basic_menu/basic_menu_theme.min.css?ver=1.0.2&amp;m=May-16-2024-13-31" id="fp-basic_menu_css_theme-css" media="all" onload='if(media!="all")media="all"' rel="stylesheet" type="text/css"/>
+  <link href="/wp-content/themes/primerAI/dist/components/custom_separator/custom_separator.min.css?ver=1.0&amp;m=May-16-2024-13-31" id="fp-custom_separator_css-css" media="all" onload='if(media!="all")media="all"' rel="stylesheet" type="text/css"/>
+  <!-- Flowpress Performance Tracker: {"Number of Queries":224,"Render Time":"1.08"} -->
+  <iframe height="1" style="position: absolute; top: 0px; left: 0px; border: none; visibility: hidden;" width="1">
+  </iframe>
+  <meta content="ccb9no4ogyswran2m9ic7a1ujqfket" name="facebook-domain-verification"/>
+ </body>
+</html>
